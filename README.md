@@ -1,4 +1,4 @@
-# Car-Sales-Analysis-Dashboard
+# Car-Sales-Analysis-Power BI Dashboard
 
 # Project Overview
 
